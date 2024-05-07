@@ -1,0 +1,33 @@
+html, body {
+	margin: 0px;
+}
+
+canvas {
+	display: block;
+}
+
+
+.btn-circle {
+	width: 32px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+	padding: 0;
+	border-radius: 50%;
+}
+
+.norm-height {
+	height: 38px;
+}
+
+.header-height {
+	height: 60px;
+}
+
+.bottom-options-height {
+	height: 180px;
+}
+
+.solve-btn-height {
+	height: 32px;
+}
