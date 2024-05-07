@@ -30,7 +30,7 @@ The app source code is attached with this document. Also, the app is source cont
 
 ## Method 1
 
-The app is deployed on GitHub Pages; Open this link [AI Search](https://swayamgupta07.github.io/AI-Search/).
+The app is deployed on GitHub Pages; Open this link [AI Search]((https://swayamgupta07.github.io/AI-Search-Algorithms-Visualizer/)).
 
 ## Method 2
 
