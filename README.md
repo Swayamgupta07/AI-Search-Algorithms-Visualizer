@@ -73,6 +73,3 @@ An example graph is in the below figure.
 ![](/graphic/searched_graph.jpg)
 
 The agent starts to paint the visited nodes **purple** , and then, when it finds a goal, it paints the solution path with **orange** as seen in the above figure.
-## AI-Search-Algorithms-Visualizer
-# AI-Search-Algorithms-Visualizer
-# AI-Search-Algorithms-Visualizer
