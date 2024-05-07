@@ -26,7 +26,7 @@ The app is built using HTML and Python as a website that can be run on any brows
 
 ## Method 1
 
-The app is deployed on GitHub Pages; Open this link [AI Search](https://swayamgupta07.github.io/AI-Search-Algorithms-Visualizer/).
+The app is deployed on GitHub Pages; Open this link [AI Search ](https://swayamgupta07.github.io/AI-Search-Algorithms-Visualizer/).
 
 ## Method 2
 
