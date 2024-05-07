@@ -1,6 +1,5 @@
 ﻿# AI-Search-Algorithms-Visualizer
-# AI-Search
-
+ 
 # Description
 
 An educational app for visualizing the different searching algorithms in the field of artificial intelligence by offering
@@ -25,13 +24,13 @@ The app is built using HTML and Python as a website that can be run on any brows
 
 # Source Code
 
-The app source code is attached with this document. Also, the app is source controlled by git and is available at this [repository](https://github.com/Ali-Elganzory/AI-Search). You can browse the incremental phases we followed to develop the app.
+The app source code is attached with this document. Also, the app is source controlled by git and is available at this [repository](https://github.com/Swayamgupta07/AI-Search) You can browse the incremental phases we followed to develop the app.
 
 # How to Run
 
 ## Method 1
 
-The app is deployed on GitHub Pages; Open this link [AI Search (ali-elganzory.github.io)](https://ali-elganzory.github.io/AI-Search/).
+The app is deployed on GitHub Pages; Open this link [AI Search](https://swayamgupta07.github.io/AI-Search/).
 
 ## Method 2
 
